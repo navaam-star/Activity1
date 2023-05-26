@@ -1,2 +1,2 @@
 # Activity1
-“This repository is an example about how to integrate GitHub with RStudio Cloud”.
+“This repository is a second attempt to integrate GitHub with RStudio Cloud”.
